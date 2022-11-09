@@ -43,3 +43,5 @@ We deploy this website using [Netlify](netlify.com).
 
 * Run command: `gridsome build`
 * Folder: `dist`
+
+
